@@ -1,0 +1,2 @@
+        self.btn_voltar = tk.Button(self.root, text="Voltar para a Página Inicial", command=self.create_welcome_page, bg="gray", fg="white")
+        self.btn_voltar.grid(row=0, column=0, columnspan=2, pady=10, sticky="ew")
