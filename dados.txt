@@ -1,5 +1,0 @@
-Joao Amexia,324615,Python
-Serginho Guimarães,21439012,Banco De Dados
-Patricia N.,57314,Banco De Dados
-Wener Sampa,57893104,Python
-Arlindo Cruz,47102,Medicina
